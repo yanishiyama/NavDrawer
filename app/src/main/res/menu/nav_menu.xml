@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_prime"
+            android:icon="@drawable/ic_cart"
+            android:title="Prime"/>
+        <item
+            android:id="@+id/nav_shirt"
+            android:icon="@drawable/ic_shirt"
+            android:title="Camisa"/>
+        <item
+            android:id="@+id/nav_pants"
+            android:icon="@drawable/ic_pants"
+            android:title="Calça"/>
+        <item
+            android:id="@+id/nav_shoes"
+            android:icon="@drawable/ic_shoes"
+            android:title="Sapato"/>
+        <item
+            android:id="@+id/nav_jacket"
+            android:icon="@drawable/ic_jacket"
+            android:title="Casaco"/>
+        <item
+            android:id="@+id/nav_dress"
+            android:icon="@drawable/ic_dress"
+            android:title="Vestido"/>
+
+
+
+    </group>
+
+</menu>

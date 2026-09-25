@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZARA</string>
+    <string name="nav_open">"Abrindo menu</string>
+    <string name="nav_close">"Fechando menu</string>
+</resources>
